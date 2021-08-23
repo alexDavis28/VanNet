@@ -1,6 +1,2 @@
-# PageTurner
-bot for a server
-
-
-
-what will it do
+# VanNet
+Bot for destiny stuff
